@@ -1,4 +1,4 @@
-# Chat-Application-
+# Chat-Application
 # 💬 Java Chat Application (Client-Server Model)
 
 This is a **real-time chat application** built using Java's **Socket Programming** and **Swing GUI**. It allows a client and a server to communicate over a local network using TCP/IP.
