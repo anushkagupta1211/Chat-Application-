@@ -3,6 +3,9 @@
 
 This is a **real-time chat application** built using Java's **Socket Programming** and **Swing GUI**. It allows a client and a server to communicate over a local network using TCP/IP.
 
+
+![image alt](https://github.com/anushkagupta1211/Chat-Application-/blob/main/Screenshot%20(254).png?raw=true)
+
 ## 🚀 Features
 
 - 🔄 Real-time two-way communication between client and server
@@ -22,8 +25,6 @@ This is a **real-time chat application** built using Java's **Socket Programming
 
 ---
 
-## 
----
 
 ## 🖥️ How It Works
 
